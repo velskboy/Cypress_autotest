@@ -1,0 +1,20 @@
+{
+    "username_selector":  "div.remoteApplication > div > div > div > div.css-grid.k-text-default > div:nth-child(2) > form > div > div:nth-child(1) > div > div > div.v-input__slot > div.v-text-field__slot",
+    "username_failed_result": "div.remoteApplication > div > div > div > div.css-grid.k-text-default > div:nth-child(2) > form > div > div:nth-child(1) > div > div > div.v-text-field__details > div > div > div > div > div",
+    
+    "shadow_selector": "#attach_modal > section > div > div:nth-child(2) > div",
+    "email_selector": "div.remoteApplication > div > div > div > div.css-grid.k-text-default > div:nth-child(2) > form > div > div:nth-child(2) > div > div > div.v-input__slot > div",
+    "email_failed_result": "div.remoteApplication > div > div > div > div.css-grid.k-text-default > div:nth-child(2) > form > div > div:nth-child(2) > div > div > div.v-text-field__details > div > div > div > div > div",
+    
+    "password_selector": "div.remoteApplication > div > div > div > div.css-grid.k-text-default > div:nth-child(2) > form > div > div:nth-child(3) > div > div > div > div > div.v-input__slot > div.v-text-field__slot",
+    "password_failed": "div.remoteApplication > div > div > div > div.css-grid.k-text-default > div:nth-child(2) > form > div > div:nth-child(3) > div > div > div > div > div.v-text-field__details > div > div > div > div > div",
+    
+    "referal_code_selector": "div.remoteApplication > div > div > div > div.css-grid.k-text-default > div:nth-child(2) > form > div > div:nth-child(4) > div > div > div.v-input__slot > div.v-text-field__slot",
+    "referal_code_failed": "div.remoteApplication > div > div > div > div.css-grid.k-text-default > div:nth-child(2) > form > div > div:nth-child(4) > div > div > div.v-text-field__details > div > div > div > div > div > span",
+    
+    "private_policy_button": "div.remoteApplication > div > div > div > div.css-grid.k-text-default > div:nth-child(2) > form > div > div.k-checkbox-auth > div",
+    "next_button": "div.remoteApplication > div > div > div > div.css-grid.k-text-default > div:nth-child(2) > form > div > div.k-btn-long-button > button",
+    
+    "light_theme_button": "#app-header > div.k-icon-customizable.k-icon-default > button",
+    "send_code_button": "#restoreEmailButton"
+}
